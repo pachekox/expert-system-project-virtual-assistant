@@ -317,7 +317,7 @@ def get_diff(a, b):
 
 if __name__ == "__main__":
     
-    print("\n\t\tHello! I'm Halal-bot, and I'm smarter than you.", end='\n\n')
+    print("\n\t\tHello! I'm developed by humans, but am smarter than them.", end='\n\n')
     
     var_list = OrderedDict()
     rule_list = list()
@@ -503,7 +503,7 @@ if __name__ == "__main__":
                 logic.pop()        
             
         else:
-            print("\nHaram Command.")
+            print("\nOoops that Command looks unfamiliar, please counter check with the README!.")
     
         print()
         
