@@ -3,6 +3,7 @@
    Kindly add Your Admission Numbers Below here
 
    ODHIAMBO PATRICK OLUOCH CIT-223-040/2017 
+   TARUS JOHN CIT-223-074/2017
    
 """
 
