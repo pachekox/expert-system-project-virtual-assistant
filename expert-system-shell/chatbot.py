@@ -3,6 +3,7 @@
    Kindly add Your Admission Numbers Below here
 
    ODHIAMBO PATRICK OLUOCH CIT-223-040/2017 
+   John Otieno CIT-223-042/2017
    
 """
 
